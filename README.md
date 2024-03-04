@@ -4,7 +4,9 @@ Stephanie Ponce
 
 # My first commit
 
-Here is text that makes up my first commit in my first repo.
+Here is text that makes up my first commit in my first repo. I am now
+adding a new line to this first commit section of the readme. text for
+another commit. text for yet another commit.
 
 # My second commit
 
